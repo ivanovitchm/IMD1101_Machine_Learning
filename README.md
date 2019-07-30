@@ -8,4 +8,11 @@
 	- Introduction to Numpy
 	- Boolean Indexing with Numpy
 	- Case Study: NYC Taxi-Airport data
+- Lesson 03
+	- Fundamentals of Machine Learning
+	- What is ML?
+	- Types
+	- Main challenges
+	- Test & Validating
+
 
