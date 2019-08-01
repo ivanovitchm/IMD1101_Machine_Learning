@@ -14,5 +14,12 @@
 	- Types
 	- Main challenges
 	- Test & Validating
-
+- Lesson 04
+	- Look at the big picture
+	- Get the data
+	- Discover and visualize the data to gain insights
+	- Prepare the data for Machine Learning algorithms
+	- Select a model and train it
+	- Fine-tune your model
+	- Present your solution
 
