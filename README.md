@@ -22,4 +22,9 @@
 	- Select a model and train it
 	- Fine-tune your model
 	- Present your solution
+- Lesson 07
+	- Univariate and Multivariate KNN
+	- Hyperparameter optimization
+	- Cross-Validation
+	- Pipeline & Gridsearch
 
