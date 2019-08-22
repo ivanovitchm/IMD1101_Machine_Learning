@@ -27,4 +27,11 @@
 	- Hyperparameter optimization
 	- Cross-Validation
 	- Pipeline & Gridsearch
+- Lesson 09
+	- Linear regression 
+	- Case study: housing price prediction
+	- Present the notion of a cost function
+	- Introduce the gradient descent method for learning.
+	- Refresher on linear algebra concepts. 
+
 
