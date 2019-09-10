@@ -33,5 +33,17 @@
 	- Present the notion of a cost function
 	- Introduce the gradient descent method for learning.
 	- Refresher on linear algebra concepts. 
+- Lesson 11
+	- First competition
+- Lesson 13
+	- Loglogistic regression
+	- Classification
+	- Binary Classification
+	- Decision Boundary
+	- Cost Function 
+	- Multiclass Classification
+	- Regularization (L1, L2)
+	- Hands on Scikit-Learn
+
 
 
