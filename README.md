@@ -62,6 +62,14 @@
 		- Univariate selection
 		- Recursive feature elimination
 	- Pipelines
+- Lesson 19
+	- Ensembles (introduction)
+	- Voting classifiers
+	- Bagging & Pasting
+		- Random Forest
+		- Feature Importante (XAI)
+	- Case Study
+
 
 
 
