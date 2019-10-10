@@ -69,6 +69,13 @@
 		- Random Forest
 		- Feature Importante (XAI)
 	- Case Study
+- Lesson 20
+	- Ensembles (cont.)
+	- Boosting
+		- Adaboost
+		- Gradient Boost
+		- XGBoost
+
 
 
 
