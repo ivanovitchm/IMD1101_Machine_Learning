@@ -75,6 +75,10 @@
 		- Adaboost
 		- Gradient Boost
 		- XGBoost
+- Lesson 21
+	- Getting Started with Kaggle
+	- Kaggle Workflow
+
 
 
 
