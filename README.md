@@ -78,6 +78,11 @@
 - Lesson 21
 	- Getting Started with Kaggle
 	- Kaggle Workflow
+- Lesson 22
+	- Clustering Basic
+	- K-Means
+	- Case study: senators votes, nba
+
 
 
 
