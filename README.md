@@ -82,6 +82,14 @@
 	- Clustering Basic
 	- K-Means
 	- Case study: senators votes, nba
+- Lesson 23
+	- Representing neural network
+	- Nonlinear activation functions
+	- Hidden Layers
+	- Case study: build a handwritten digit classifier
+
+
+
 
 
 
